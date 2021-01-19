@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="307392c8-9af0-48e9-a39b-685cb6c2f63a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/api_test_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_user_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ht.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/HTMLTestReportCN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/case_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/read_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/run_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/.pytest_cache/v/cache/stepwise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/test_user_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/test_user_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/user/test_user_reg.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/api_test_framework$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1536752399423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1536810320149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$py_test_for_test_user_login_TestUserLogin_test_user_login_normal.coverage" NAME="py.test for test_user_login.TestUserLogin.test_user_login_normal Coverage Results" MODIFIED="1536752640030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$db.coverage" NAME="db Coverage Results" MODIFIED="1536654800185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$test_user_reg.coverage" NAME="test_user_reg Coverage Results" MODIFIED="1536803405697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$config.coverage" NAME="config Coverage Results" MODIFIED="1536803426207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$test_user_login.coverage" NAME="test_user_login Coverage Results" MODIFIED="1536804320539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/api_test_framework$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1536815819310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\api_test_framework_finish\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1n36xWVLLWm654dCxPr2qN95b6q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework\data" />
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework\log" />
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework\report" />
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework\lib" />
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework\test\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hanzhichao\PycharmProjects\api_test_framework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_user_login.py">
+    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api_test_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api_test_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/read_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_login.TestUserLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="api_test_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_login.TestUserLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_user_login.TestUserLogin.test_user_4list" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="api_test_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_login.TestUserLogin.test_user_4list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_user_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="api_test_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/user/test_user_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.db" />
+      <item itemvalue="Python.read_excel" />
+      <item itemvalue="Python tests.pytest in test_user_login.py" />
+      <item itemvalue="Python tests.pytest for test_user_login.TestUserLogin.test_user_4list" />
+      <item itemvalue="Python tests.pytest for test_user_login.TestUserLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_user_login.py" />
+        <item itemvalue="Python.read_excel" />
+        <item itemvalue="Python tests.pytest for test_user_login.TestUserLogin" />
+        <item itemvalue="Python.db" />
+        <item itemvalue="Python tests.pytest for test_user_login.TestUserLogin.test_user_4list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="307392c8-9af0-48e9-a39b-685cb6c2f63a" name="Default" comment="" />
+      <created>1536652399107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536652399107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="382" key="GridCell.Tab.0.bottom" timestamp="1610965987394">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1610766889615" />
+    <state width="1899" height="382" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610965987394" />
+    <state width="1899" height="382" key="GridCell.Tab.0.center" timestamp="1610965987393">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1610766889614" />
+    <state width="1899" height="382" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610965987393" />
+    <state width="1899" height="382" key="GridCell.Tab.0.left" timestamp="1610965987393">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1610766889614" />
+    <state width="1899" height="382" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610965987393" />
+    <state width="1899" height="382" key="GridCell.Tab.0.right" timestamp="1610965987394">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1610766889614" />
+    <state width="1899" height="382" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1610965987394" />
+    <state x="1597" y="227" key="SettingsEditor" timestamp="1611018899379">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1597" y="227" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1611018899379" />
+  </component>
+</project>

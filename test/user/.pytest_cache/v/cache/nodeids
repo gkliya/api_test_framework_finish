@@ -1,0 +1,9 @@
+[
+  "test_user_login.py::TestUserLogin::test_user_2login_normal",
+  "test_user_login.py::TestUserLogin::test_user_3login_delete",
+  "test_user_login.py::TestUserLogin::test_user_4list",
+  "test_user_login.py::TestUserLogin::test_user_list",
+  "test_user_login.py::TestUserLogin::test_user_login_delete",
+  "test_user_login.py::TestUserLogin::test_user_login_normal",
+  "test_user_login.py::TestUserLogin::test_user_login_update"
+]
